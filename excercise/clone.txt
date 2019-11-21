@@ -1,0 +1,2 @@
+git clone url 
+run this command to clone a repo
