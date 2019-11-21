@@ -1,0 +1,3 @@
+this is file3 
+located in branch1 branch
+under dev branch
